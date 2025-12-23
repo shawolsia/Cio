@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cio - 味道驱动的小说推荐系统架构方案",
+  "description": "作为技术合伙人，基于产品哲学设计的 Cio 技术方案：包含选择型数据模型、偏好向量引擎及 Cio Index 计算逻辑。",
+  "requestFramePermissions": []
+}
